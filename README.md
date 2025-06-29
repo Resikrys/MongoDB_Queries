@@ -71,6 +71,6 @@ The main objective is to master MongoDB query operations including:
 ## 📚 Additional Resources
 
 - [MongoDB Documentation](https://docs.mongodb.com/docs/)
-- [MongoDB Query Operators]([https://docs.mongodb.com/manual/tutorial/query-documents/] (https://www.mongodb.com/docs/manual/reference/operator/query/)
-- [MongoDB Aggregation Pipeline]([https://docs.mongodb.com/docs/](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/)
+- [MongoDB Query Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
+- [MongoDB Aggregation Pipeline](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/)
 - [MongoDB Compass Guide](https://docs.mongodb.com/compass/)
