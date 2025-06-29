@@ -64,7 +64,7 @@ The main objective is to master MongoDB query operations including:
    use restaurants_db
    ```
 -  Now you can paste the queries directly from restaurant_queries.js one by one, or execute the complete script:
-       ```bash
+  ```bash
    load("restaurant_queries.js")
    ```
 
